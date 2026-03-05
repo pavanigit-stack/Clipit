@@ -5,38 +5,19 @@
 ### AI-Powered Clipboard Manager for Windows
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</p>
-
-<p align="center">
   <strong>Never lose your clipboard history again. Search it with AI.</strong>
 </p>
 
 <p align="center">
   <a href="#-features">Features</a> •
-  <a href="#-demo">Demo</a> •
   <a href="#-installation">Installation</a> •
   <a href="#-usage">Usage</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-support">Support</a>
+  <a href="#-architecture">Architecture</a> 
 </p>
 
 ---
 
 </div>
-
-## <img src="https://img.icons8.com/?size=32&id=59862&format=png" alt="Video"/> Demo
-
-### <img src="https://img.icons8.com/color/24/000000/youtube-play.png" alt="YouTube"/> Watch on YouTube
-
-[![ClipIt Demo Video](https://img.youtube.com/vi/prX3y_jcd90/maxresdefault.jpg)](https://www.youtube.com/watch?v=prX3y_jcd90)
-
-**[▶️ Watch Full Demo on YouTube](https://www.youtube.com/watch?v=prX3y_jcd90)**
-
-See ClipIt in action with AI-powered clipboard management and smart text retrieval.
 
 ---
 
@@ -340,9 +321,7 @@ Contributions are welcome! We'd love your help to make ClipIt even better.
 
 ---
 
-## <img src="https://img.icons8.com/?size=32&id=24551&format=png" alt="License"/> License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -363,17 +342,6 @@ ClipIt wouldn't be possible without these amazing projects:
 
 
 
----
-
-<div align="center">
-
-## <img src="https://img.icons8.com/?size=32&id=104&format=png" alt="Star"/> Star History
-
-If you find ClipIt useful, please consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=nihalnihalani/Clipit&type=Date)](https://star-history.com/#nihalnihalani/Clipit&Date)
-
----
 
 ### <img src="https://img.icons8.com/?size=24&id=59799&format=png" alt="Love"/> Made with care for productivity enthusiasts
 
